@@ -40,5 +40,8 @@
   "homepage": "https://github.com/sacmii/rn-vertical-slider-gradient#readme",
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.53.1"
+  },
+  "dependencies": {
+    "expo-linear-gradient": "^11.0.3"
   }
 }
